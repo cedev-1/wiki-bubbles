@@ -5,7 +5,7 @@ import { GraphData, GraphNode, AppState, Language } from './types';
 
 const translations = {
     en: {
-        title: "WIKIMAP",
+        title: "WIKI BUBBLES",
         subtitle: "Minimalist Knowledge Explorer",
         placeholder: "Enter a Wikipedia URL...",
         explore: "Explore",
@@ -26,8 +26,8 @@ const translations = {
         translating: "Translating topic..."
     },
     fr: {
-        title: "WIKIMAP",
-        subtitle: "Explorateur de connaissances minimaliste",
+        title: "WIKI BUBBLES",
+        subtitle: "Explorer wikipédia avec des bulles",
         placeholder: "Entrez une URL Wikipédia...",
         explore: "Explorer",
         reset: "Réinitialiser",
