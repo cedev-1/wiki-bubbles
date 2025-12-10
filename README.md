@@ -2,6 +2,8 @@
 
 A minimalist Wikipedia knowledge explorer that visualizes article connections as an interactive blubble graph.
 
+<img width="1866" height="897" alt="image" src="https://github.com/user-attachments/assets/d998b6be-133c-4879-ba0c-7d1d11c60e28" />
+
 ## Setup
 
 ### Installation
